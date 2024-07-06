@@ -15,7 +15,7 @@ Welcome to the **eigen3dev** test. The app was build using [Express JS](https://
 ### Installation
 - Clone from Github
     ```bash
-    git clone https://github.com/nibras-sh/eigen3dev_backend.git
+    git clone https://github.com/nibras-sh/eigen3dev.git
     ```
 - Install dependencies
     ```bash
