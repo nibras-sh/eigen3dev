@@ -3,7 +3,7 @@
 ### Table Of Content
 - [Intruduction](#Introduction)
 - [Installation & Deploy](#Installation)
-- [Installation & Deploy](#Swagger)
+- [Swagger](#Swagger)
 - [Testing](#Testing)
     - [Backend Test Case](#backend-test-case)
     - [Algorhythm Test](#algorhythm-test)
